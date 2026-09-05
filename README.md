@@ -19,7 +19,19 @@ The Head of Sales has tasked the Data Analytics Division to analyse ExpressMart'
 
 ## **Product Sales Performance** 
 ### **Revenue Analysis by Product** 
-- The decrease in total revenue is primarily due to a decrease in revenue for groceries and sports product. Total revenue for groceries and sport products decreased by 3.42% ($346,186) and 3.72% ($4.4M) respectively.
+- The decrease in total revenue is primarily due to a decrease in revenue for groceries and sports product. Total revenue for groceries and sports products decreased by 3.42% ($346,186) and 3.72% ($4.4M) respectively.
+- Decrease in total revenue for groceries is primarily due to a 10.99% decrease ($230,983) in revenue for Nescafe products. Fortune and Haldiram products also experienced a 5.5% decrease ($107,251) and 4.81% decrease ($113,311) in revenue respectively. Aashirvaad products experienced a 5.01% increase ($89,750) in revenue. 
+- Decrease in revenue for sports product is primarily due to a 8.82% decrease ($1.96M) and 8.35% decrease ($2M) in revenue for Decathlon and Puma products respectively. Dumbbells and yoga products experienced a 4.64% and 0.36% decrease in revenue respectively. 
 - Total revenue for beauty, books and fashion product also decreased by 1.43% ($134,502), 0.75% ($33,130) and 1.05% ($852,655) respectively.
-- Total revenue for electronics increased slightly by 0.16% ($1.6M) and total revenue for home products increased by 1.8% ($3.1M). 
+- Total revenue for electronics increased slightly by 0.16% ($1.6M) and total revenue for home products increased by 1.8% ($3.1M).
+- Similar to previous years, total revenue is primarily contributed by electronics (72.66%), home products (12.16%), sports products (7.92%) and fashion products (5.62%).
+
+### **Order Analysis by Product** 
+- Orders are not dominated by specific product categories. While electronics and fashion products contribute 26.6% and 20.1% to orders, books and beauty products also contributed 8.13% and 6.6% to orders.
+- Orders for electronic products, sports products and groceries decreased by 1.13% (180), 2.8% (199) and 1.63% (130). Beauty products experienced the largest percentage decrease in orders at 4.81% (198), where Dove products experienced a 7.1% (56) in orders.
+- Within groceries products, orders for Nescafe decreased by 4.9% (80) and orders for Haldiram decreased by 5% (81). Orders for Lays increased by 6.1% (93).
+- Within sports products, Puma and Decathlon products experienced a 9.6% decrease (141) and 3.1% decrease (44) in orders.
+
+### **AOV by Product** 
+
   
