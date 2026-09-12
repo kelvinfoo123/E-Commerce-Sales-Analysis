@@ -33,5 +33,12 @@ The Head of Sales has tasked the Data Analytics Division to analyse ExpressMart'
 - Within sports products, Puma and Decathlon products experienced a 9.6% decrease (141) and 3.1% decrease (44) in orders.
 
 ### **AOV by Product** 
+- Despite the 1.13% decrease in orders for electronics products, AOV for electronics products increased by 1.3% ($842.19). 
+- Although beauty products experienced the largest percentage decrease in orders at 4.81%, it experienced the largest percentage increase in AOV at 3.56% ($81.39).
+- Not only did sports and groceries products experience decrease in orders by 2.8% and 1.63% respectively, their AOV decreased by 0.95% ($156.53) and 1.82% ($23.11).
+- Sales team should not only focus on increasing orders for sports and groceries, but should also focus on converting customers to purchase higher value products per order.
+
+## **Regional Sales Performance** 
+
 
   
