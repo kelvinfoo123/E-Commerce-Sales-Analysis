@@ -38,7 +38,13 @@ The Head of Sales has tasked the Data Analytics Division to analyse ExpressMart'
 - Not only did sports and groceries products experience decrease in orders by 2.8% and 1.63% respectively, their AOV decreased by 0.95% ($156.53) and 1.82% ($23.11).
 - Sales team should not only focus on increasing orders for sports and groceries, but should also focus on converting customers to purchase higher value products per order.
 
-## **Regional Sales Performance** 
+## **State Sales Performance** 
+### **Revenue Analysis by State** 
+- West Bengal experienced a the largest percentage decrease in revenue at 6.05% ($6,984,279). Gujarat and Rajasthan experienced a 1.39% ($2,007,183) and 1.74% ($3.096.307) decrease in revenue respectively.
+- Karnataka experienced the largest percentage increase in revenue at 5.76% ($5,974,505). Delhi, Maharashtra and Punjab experienced a 1.59% ($1,814,351), 1.58% ($2,308,802) and 1.69% ($2,387,840) increase in revenue respectively.
+- In West Bengal, Durgapur had the largest percentage decrease in revenue at 11.7% ($4,423,829) followed by Kolkata at 7.42% ($2,952,319). Howrah had a 1.03% increase in revenue ($391,870). 
 
+### **Order Analysis by State** 
 
+### **AOV Analysis by State** 
   
