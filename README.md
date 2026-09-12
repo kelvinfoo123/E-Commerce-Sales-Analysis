@@ -45,6 +45,9 @@ The Head of Sales has tasked the Data Analytics Division to analyse ExpressMart'
 - In West Bengal, Durgapur had the largest percentage decrease in revenue at 11.7% ($4,423,829) followed by Kolkata at 7.42% ($2,952,319). Howrah had a 1.03% increase in revenue ($391,870). 
 
 ### **Order Analysis by State** 
+- Gujarat experienced the largest percentage decrease in orders at 3.43% (210). UP, Haryana, West Bengal and Maharastra experienced decrease in orders by 1.31% (103), 1.19% (92), 1.73% (81) and 1.16% (71) respectively.
+- In Gujarat, Surat experienced a 10.26% decrease (167) in orders and Vadodara experienced a 5.51% decrease (91) in orders. 
 
 ### **AOV Analysis by State** 
+
   
