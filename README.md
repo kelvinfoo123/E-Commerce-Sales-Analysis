@@ -49,5 +49,9 @@ The Head of Sales has tasked the Data Analytics Division to analyse ExpressMart'
 - In Gujarat, Surat experienced a 10.26% decrease (167) in orders and Vadodara experienced a 5.51% decrease (91) in orders. 
 
 ### **AOV Analysis by State** 
+- UP, Delhi, Gujarat, Maharastra and Punjab experienced a $300 - $700 increase in AOV. Karnataka experienced a 5.2% increase ($1189) in AOV, signifying that customers are purchasing much higher value items per order on average.
+- West Bengal experienced a 4.4% decrease ($1082) in AOV. Not only did West Bengal experience lesser orders, customers were also purchasing lower value items per order on average.
+
+## **Customer Profile Sales Performance** 
 
   
